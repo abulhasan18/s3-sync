@@ -1,2 +1,2 @@
 This is a sample artifact file
-changes 2
+changes 3
